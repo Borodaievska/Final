@@ -20,7 +20,7 @@ public class CompareBlock {
 
 	// === LOCATORS TO COMPARE ITEMS === //
 
-	private static final String FIRST_COMPARE = "//div[@class='item'][1]/div[@class='compare-links']/span[11]";
+	private static final String FIRST_COMPARE = "//div[@class='item'][1]/div[@class='compare-links']/span[1]";
 	private static final String SECOND_COMPARE = "//div[@class='item'][2]/div[@class='compare-links']/span[1]";
 	private static final String COMPARE_GOODS = "//div[@class='compare-links']/span[3]/a";
 	public final String DIV_CLASS_ITEM_PART_2 = "]/div/a";
